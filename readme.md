@@ -18,8 +18,8 @@ One of them , give you an acces to your album-app .
 
 ## Result
 
-![seite1](Illustration/seite1.png)
-![seite2](Illustration/seite2.png)
+![seite1](Illustration/Seite1.png)
+![seite2](Illustration/Seite2.png)
 
 
 
