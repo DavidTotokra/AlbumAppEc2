@@ -16,7 +16,7 @@ One of them , give you an acces to your album-app .
 ![Setting](Illustration/SettingEc2.png)
 ![files](Illustration/files.png)
 
-## Result
+## Results
 
 ![seite1](Illustration/Seite1.png)
 ![seite2](Illustration/Seite2.png)
