@@ -2,6 +2,8 @@
 
 The goal of the project it s build telegram-bot , which can exchange with you just by writting specials commands on telegram. 
 One of them , give you an acces to your album-app .
+as long Aws run , works the link 
+
 
 
 
@@ -10,11 +12,23 @@ One of them , give you an acces to your album-app .
 ![Bot](Illustration/Telegram-bot.png)
 ![Special](Illustration/Special.png)
 
+
+## Aws view 
+![Run](Illustration/run.png)
+![server](Illustration/server.png)
+
+
 ## On Ec2
 
 
 ![Setting](Illustration/SettingEc2.png)
 ![files](Illustration/files.png)
+
+
+## Open the port 8000
+![port](Illustration/port.png)
+
+
 
 ## Results
 
